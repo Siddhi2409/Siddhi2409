@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Siddhi2409
 - 👀 I’m interested in codingg
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on internship 
+- 💞️ I’m looking to collaborateh on internship 
 - 📫 How to reach me siddhiagrawal768@gmail.com
 
 
