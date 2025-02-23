@@ -1,5 +1,5 @@
 - 👋 hello, I’m @Siddhi1324
-- 👀 I’m interested in codingg
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to colllaborateh on internship 
 - 📫 How to reach me siddhiagrawal768@gmail.com
