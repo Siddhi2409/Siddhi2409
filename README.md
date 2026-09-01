@@ -1,8 +1,8 @@
-- 👋 hello, I’m @Siddhi@300626
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to colllaborateh on internship 
-- 📫 How to reach me siddhiagrawal768@gmail.com
+- 👋 Hello, I am Siddhi 
+- Btech Student || Exploring Cybersecurity and Networking 
+- Building projects & Learning in public 
+- 💞️ I’m looking to colllaborate on internship 
+- 📫 How to reach me asiddhi390@gmail.com
 
 
 <!---
