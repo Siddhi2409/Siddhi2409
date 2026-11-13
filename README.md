@@ -1,4 +1,4 @@
-- 👋 Hello, I am Siddhi 
+- 👋 Hello I am Siddhi 
 - Btech Student || Exploring Cybersecurity and Networking 
 - Building projects & Learning in public 
 - 💞️ I’m looking to colllaborate on internship 
