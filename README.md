@@ -1,5 +1,5 @@
 - 👋 Hello I am Siddhi 
-- Btech Student || Exploring Cybersecurity and Networking 
+- Btech Student || Exploring Data Engineering
 - Building projects & Learning in public 
 - 💞️ I’m looking to colllaborate on internship 
 - 📫 How to reach me asiddhi390@gmail.com
