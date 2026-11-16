@@ -1,7 +1,7 @@
 - 👋 Hello I am Siddhi 
 - Btech Student || Exploring Data Engineering
 - Building projects & Learning in public 
-- 💞️ I’m looking to colllaborate on internship 
+- I’m looking to colllaborate on internship 
 - 📫 How to reach me asiddhi390@gmail.com
 
 
