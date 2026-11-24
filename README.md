@@ -1,4 +1,4 @@
-- 👋 Hello I am Siddhi 
+- 👋 Hello myself Siddhi 
 - Btech Student || Exploring Data Engineering
 - Building projects & Learning in public 
 - I’m looking to colllaborate on internship 
